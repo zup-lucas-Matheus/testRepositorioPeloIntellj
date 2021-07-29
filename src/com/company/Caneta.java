@@ -3,11 +3,13 @@ package com.company;
 public class Caneta {
 
     //atributos
-    String modelo;
-    String cor;
-    float ponta;
-    int carga;
-    boolean tampada;
+
+    public String modelo;
+    public String cor;
+    public float ponta;
+    public int carga;
+    public boolean tampada;
+
 
     //metodos
     void rabiscar(){

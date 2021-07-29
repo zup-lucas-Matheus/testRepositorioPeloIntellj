@@ -8,10 +8,6 @@ public class Escritorio {
     boolean monitor;
     boolean cadeira;
 
-
-
-
-
     void notebookOn(){
 
 

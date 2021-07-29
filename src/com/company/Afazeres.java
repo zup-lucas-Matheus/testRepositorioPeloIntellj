@@ -1,16 +1,15 @@
 package com.company;
 
 public class Afazeres {
+
     public static void main(String[] args) {
 
+        Caneta  c1 = new Caneta();
 
-        Afazeres lucas = new Afazeres();
+        c1.modelo = "Dell";
+        c1.cor = "Azul";
 
-
-        lucas.modelo1 = "Dell";
-        lucas.notebook = True;
-
-
+        c1.rabiscar();
 
 
     }
